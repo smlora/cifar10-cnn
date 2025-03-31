@@ -40,3 +40,34 @@ The final model is a **6-layer Convolutional Neural Network** built using the Ke
 
 ## Project Structure
 
+```
+cifar10-cnn/
+├── notebooks/
+│   └── Steven_Lora_MSIT675_Project1.ipynb
+├── README.md
+└── requirements.txt
+```
+
+## How to Run
+
+> This project was run in a Jupyter Notebook environment. To explore or reproduce the results:
+
+1. Open the notebook:
+   ```
+   notebooks/Steven_Lora_MSIT675_Project1.ipynb
+   ```
+
+2. Follow along and run cells in order to load data, define the model, train, and evaluate.
+
+## Requirements
+
+Install Python dependencies with:
+
+```
+pip install -r requirements.txt
+```
+
+## Contact
+
+Created by [Steven Lora](https://github.com/smlora)  
+Feel free to connect with me on [LinkedIn](#) or reach out for collaboration or questions!
